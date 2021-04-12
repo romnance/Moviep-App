@@ -1,3 +1,5 @@
+Hosted here: https://my-movie-time-app.herokuapp.com/
+
 Movies App based on React
 
 API Info: api_key = 565aae61031ff071e3eecd675ccebbb4
